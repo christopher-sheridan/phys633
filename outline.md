@@ -26,6 +26,7 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 - Evolution of interacting binary stars
 - Tidal disruption events around supermassive black holes; supermassive black hole growth
 
+
 ## Format
 
 We will discuss a different topic every week. The first class will be a short summary of the topic based on the reading followed by discussion. The second class will be a numerical exercise that illustrates the topic.
