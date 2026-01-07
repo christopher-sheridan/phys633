@@ -29,6 +29,9 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 - Formation and evolution of dark matter halos
 - Evolution of interacting binary stars
 
+
+[Sign up sheet](https://docs.google.com/spreadsheets/d/1soXe7dKL2s31A_DkT8pRN2mg6A9gc7O6MSCj8AySJgc/edit?usp=sharing)
+
 ## Format
 
 The course will be divided into two parts. In the first part (approximately 8 weeks), we will discuss a different topic each week. Class time will be devoted to discussion of the reading assignment and numerical exercises that illustrate the topic. We will divide into pairs and, starting from Week 3, each pair of students will take charge of one topic. You will be responsible, with the help of the course instructor, for assigning reading for the week, including reading questions, running the discussion in class, and coming up with a numerical exercise.
