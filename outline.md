@@ -47,7 +47,7 @@ The second part of the course (approximately 4 weeks) will be devoted to individ
   
 ## Assessment
 
-Your grade will be based on (1) weekly submissions (20%), (2) the materials prepared for your topic week (40%), and (3) the project (40%).
+Your grade will be based on (1) weekly submissions (1/3), (2) the materials prepared for your topic week (1/3), and (3) the project (1/3).
 
 ## Course coordinator
 
