@@ -15,4 +15,5 @@ Chapter 2 of [Murray and Dermott](https://mcgill.on.worldcat.org/search/detail/4
 - explain why, even though the Moon is tidally-locked, it appears to wobble (librate) to an observer on Earth
 - underneath each of eqs (2.157) and (2.162), the text gives a brief physical explanation. Explain how the physical explanation gives rise to the equation in each case.
 
-Answers to these questions should be submitted to your github repository *before* class.
+Answers to these questions should be submitted to your github repository *before* class on Monday.
+

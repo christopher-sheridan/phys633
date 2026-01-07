@@ -12,7 +12,7 @@
 | Feb 23 (Week 7) |  | Pair 5 |
 | | Reading week |  |
 | Mar 9 (Week 8) |  | Pair 6 |
-| Mar 16 (Week 9) |  | Project week 1 |
+| Mar 16 (Week 9) | Project week 1 ||
 | Mar 23 (Week 10) | Project week 2  ||
 | Mar 30 (Week 11) | Project week 3  ||
 | Apr 6 (Week 12) | Project presentations  ||
