@@ -1,6 +1,6 @@
 # Course outline
 
-This will be a seminar course on Astrophysical Dynamics under the *PHYS 633 Seminar in Astrophysics 2* course number. The course will provide an introduction to different topics in dynamics from across astrophysics, such as planetary, stellar, or galactic dynamics, mergers, binary evolution, tides, etc., as well as how to model dynamical systems using the [REBOUND code](https://rebound.hanno-rein.de/) (and other codes as appropriate).
+## PHYS 633 Seminar in Astrophysics 2, Winter term 2026
 
 ## Time and place
 
@@ -13,13 +13,15 @@ Winter term 2026. Class will be held on Mondays and Wednesdays from 1-2.30pm in 
 The topic for the course, "Astrophysical Dynamics", has deliberately been chosen to be broad so that it overlaps with many different research areas. We will decide on a list of topics at the first meeting, depending on what people are most interested in, but some possible topics are:
 
 - The two-body problem
+- The restricted three-body problem: tadpole and horseshoe orbits, trojans
 - Resonant interactions between planets
 - The dynamics of black hole mergers
 - Dynamics of star clusters. Violent relaxation, core collapse
 - How to integrate accurately. Symplectic integration
+- Orbits in Galactic disks
 - Relativistic corrections in pulsar binaries
 - Planetary migration
-- The restricted three-body problem: tadpole and horseshoe orbits, trojans
+- Kozai mechanism
 - Tides: orbital evolution, tidal heating
 - Chaos and the evolution of systems over large times
 - Formation and evolution of dark matter halos
@@ -30,18 +32,9 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 
 ## Format
 
-The course will be divided into two parts. In the first part (approximately 7 weeks), we will discuss a different topic each week. Class time will be devoted to discussion of the reading assignment and numerical exercises that illustrate the topic. We will divide into pairs and, starting from Week 4, each pair of students will take charge of one topic. You will be responsible, with the help of the course instructor, for assigning reading for the week, coming up with discussion questions and a numerical exercise.
+The course will be divided into two parts. In the first part (approximately 8 weeks), we will discuss a different topic each week. Class time will be devoted to discussion of the reading assignment and numerical exercises that illustrate the topic. We will divide into pairs and, starting from Week 3, each pair of students will take charge of one topic. You will be responsible, with the help of the course instructor, for assigning reading for the week, including reading questions, running the discussion in class, and coming up with a numerical exercise.
 
-The second part of the course (approximately 4 weeks) will be devoted to individual projects. Class time will be used for updates and feedback on the project, with a final presentation in the last week of classes.
-
-## Assessment
-
-Your grade will be based on (1) weekly submissions (20%), (2) the materials prepared for your topic week (40%), and (3) the project (40%).
-
-## Course coordinator
-
-Prof. [Andrew Cumming](https://www.physics.mcgill.ca/~cumming/), andrew.cumming@mcgill.ca, Rutherford 310.
-
+The second part of the course (approximately 4 weeks) will be devoted to individual projects. Class time will be used for updates and feedback on the project, with a final presentation in the last week of classes (Weeks 11/12).
 
 ## Useful books and other resources
 
@@ -51,6 +44,17 @@ Prof. [Andrew Cumming](https://www.physics.mcgill.ca/~cumming/), andrew.cumming@
   - [Example notebooks](https://github.com/hannorein/rebound/tree/main/ipython_examples)
   - [YouTube tutorials](https://www.youtube.com/@reboundcode)
   - [Units](https://rebound.hanno-rein.de/units/#using-g1)
+  
+## Assessment
+
+Your grade will be based on (1) weekly submissions (20%), (2) the materials prepared for your topic week (40%), and (3) the project (40%).
+
+## Course coordinator
+
+Prof. [Andrew Cumming](https://www.physics.mcgill.ca/~cumming/), andrew.cumming@mcgill.ca, Rutherford 310.
+
+
+
 
 ## McGill policy statements
 
