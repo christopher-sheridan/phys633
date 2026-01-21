@@ -21,6 +21,7 @@ project:
     - file: Week2/week2.md
       children:
       - file: Week2/week2_exercise.md
+      - file: Week2/week2_solutions.ipynb
     - file: Week3/week3.md
 
 site:
