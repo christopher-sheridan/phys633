@@ -20,7 +20,7 @@ Consider a simple two-body system: a planet of mass $M_p$ and radius $R$, rotati
 
 Use Rebound to simulate a 2-planet system. Set up each planet with its mass and initial orbital parameters. You may want to change the units using ```sim.units = ('AU','yr','Msun')```
 
-1. Try to replicate Fig.3-4 from [this excerpt](week3_Exoplanets.pdf) from the Exoplanets book using the initial conditions from the captions, and add a plot for the argument of periastron for each planet as well. You can read the text in the PDF file for some more explanation. Increase the simulation time. What do you find and how can you explain that? (extra: animate the change in orbits)
+1. Try to replicate Fig.3-4 from [this excerpt](../_static/week3_Exoplanets.pdf) from the Exoplanets book using the initial conditions from the captions, and add a plot for the argument of periastron for each planet as well. You can read the text in the PDF file for some more explanation. Increase the simulation time. What do you find and how can you explain that? (extra: animate the change in orbits)
 
 2. Experiment with the orbital parameters of each planet. Try to put them into a resonance or near-resonance. Observe how orbital parameters evolve over time. Add a plot for the resonant argument (Eq. 7.43) and check if your system meets the criteria of being in resonance. (extra: animate the change in orbits)
 
