@@ -46,6 +46,7 @@ The second part of the course (approximately 4 weeks) will be devoted to individ
   - [Units](https://rebound.hanno-rein.de/units/#using-g1)
   - [REBOUNDx](https://reboundx.readthedocs.io/en/latest/python_quickstart.html) for adding additional forces, e.g. effects of tides
 - [galpy code](https://docs.galpy.org/en/v1.11.0/)
+- [Dynamics and Evolution of Galactic Nuclei](https://mcgill.on.worldcat.org/search/detail/958573669?datasource=library_web&search_field=all_fields&search=true&database=all&scope=wz%3A12129&format=&clusterResults=on&func=find-b&q=&topLod=0&queryString=Merritt%20galactic%20nuclei&find=Go) by David Merritt
 
   
 ## Assessment
