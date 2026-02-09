@@ -31,7 +31,10 @@ project:
       children:
       - file: Week4/Exercise_dwarf_galaxies.ipynb
     - file: Week5/week5.md
-
+      children:
+      - file: Week5/week5_exercise.md
+      - file: Week5/week5.ipynb
+      
 site:
   template: book-theme
   #options:
