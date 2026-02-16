@@ -1,4 +1,6 @@
-# Part 1
+# Week 6 Exercises
+
+## Part 1
 
 a) Given that $0\leq\chi\leq1$, recreate Figure 4.14. (Note that the event horizon when spin is not = 0 is given by $r_{event} = r_g(1+\sqrt{1-\chi^2})$.) Verify this is correct by giving the capture radii $\frac{r_c}{r_g}$ for $s=0$ and $s=m$.
 
@@ -9,7 +11,7 @@ $l$ is given by $l = \frac{L_c^2}{GM} \approx L_c^2$ if $r_g$ is being divided o
 Therefore, $r_p \approx \frac{L_c^2}{2}$.
 
 
-# Part 2
+## Part 2
 
 a) In ${\tt Rebound}$, create a simulation of $N=1000$ stars around a central SMBH. Distribute the stars uniformly about eccentricity $e$ and semi-major axis $a$ phase-space, for example, $a\in (0.5,2)$ and $e\in (0, 0.9)$. Simulate the motion of the stars around the SMBH and determine which will be lost to the SMBH, show the area of $a$-$e$ phase-space that is populated by doomed stars. Last week's notebook will be very useful as a starting point.
 
